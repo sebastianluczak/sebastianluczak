@@ -7,5 +7,5 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 - 🌱 I’m currently learning Node.JS and Python
 - 👯 I’m looking to collaborate on external projects with tight deadlines and/or complicated architecture and/or tech debt
 - 💬 Ask me about my free slots in calendar, which are almost none :)
-- 📫 How to reach me: just message me on my LinkedIn: https://www.linkedin.com/in/sebastianmluczak/
+- 📫 How to reach me: just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/)
 - ⚡ Fun fact: I can solve Rubic's cube in under 60 seconds
