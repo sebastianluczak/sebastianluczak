@@ -11,6 +11,9 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 - ⚡ Fun fact: I can solve Rubic's cube in under 60 seconds
 
 ### What I'm passionate about:
+
+![Logo](https://raw.githubusercontent.com/sebastianluczak/php-roguelike/master/docs/images/logo.png)
+
 Currently I'm developing fun side project - a [PHP-cli Roguelike game](https://github.com/sebastianluczak/php-roguelike) heavily based on ADOM, with few concepts taken out from D&D and Fallout mixed with Enter The Gungeon, Hades, Diablo. I know it's a silly idea to make single player roguelike in console, but I'm using it as a playground for testing my skills and new ideas. Feel free to comment and or put some PR's. There's [whole board](https://github.com/sebastianluczak/php-roguelike/projects/1) dedicated to this project alone!
 
 ![Image](https://github.com/sebastianluczak/php-roguelike/raw/master/docs/images/screenshot.png)
