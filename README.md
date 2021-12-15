@@ -3,7 +3,8 @@
 My name is Sebastian and I'm Senior PHP Developer with huge interest in sales, marketing and lead generation.
 Also I lead IT teams being all-in-one scrum master, project manager, team mentor and developer.
 
-- 🔭 I’m currently working on one of biggest projects in Europe from FinTech sector
+- 🔭 I’m currently working on expanding and leading newly created PHP Team in [TheCodest](https://thecodest.co) 💕 🦄
+- 💼 We're hiring, take a look at [Our jobs pool](https://thecodest.co/careers)
 - 🌱 I’m currently learning Node.JS and Python
 - 👯 I’m looking to collaborate on external projects with tight deadlines and/or complicated architecture and/or tech debt
 - 💬 Ask me about my free slots in calendar, which are almost none :)
