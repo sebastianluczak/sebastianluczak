@@ -13,9 +13,9 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 
 ### What I'm passionate about:
 
-![Logo](https://raw.githubusercontent.com/sebastianluczak/php-roguelike/master/docs/images/logo.png)
+[![Logo](https://raw.githubusercontent.com/sebastianluczak/php-roguelike/master/docs/images/logo.png)](https://sebastianluczak.github.io/php-roguelike/)
 
-Currently I'm developing fun side project - a [PHP-cli Roguelike game](https://github.com/sebastianluczak/php-roguelike) heavily based on ADOM, with few concepts taken out from D&D and Fallout mixed with Enter The Gungeon, Hades, Diablo. I know it's a silly idea to make single player roguelike in console, but I'm using it as a playground for testing my skills and new ideas. Feel free to comment and or put some PR's. There's [whole board](https://github.com/sebastianluczak/php-roguelike/projects/1) dedicated to this project alone!
+Currently I'm developing fun side project - a [PHP-cli Roguelike game](https://sebastianluczak.github.io/php-roguelike/) heavily based on ADOM, with few concepts taken out from D&D and Fallout mixed with Enter The Gungeon, Hades, Diablo. I know it's a silly idea to make single player roguelike in console, but I'm using it as a playground for testing my skills and new ideas. Feel free to comment and or put some PR's in open-sourced [repository](https://github.com/sebastianluczak/php-roguelike). There's even a [whole board](https://github.com/sebastianluczak/php-roguelike/projects/1) dedicated to this project alone!
 
 ![Image](https://github.com/sebastianluczak/php-roguelike/raw/master/docs/images/screenshot.png)
 
