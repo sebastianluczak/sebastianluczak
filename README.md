@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello dear traveler 👋
 
 My name is Sebastian and I'm Senior PHP Developer with huge interest in sales, marketing and lead generation.
 Also I lead IT teams being all-in-one scrum master, project manager, team mentor and developer.
