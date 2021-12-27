@@ -1,5 +1,7 @@
 ## Hello Dear Traveler
 
+[![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)](https://brodaty.dev)
+
 My name is Sebastian and I'm Senior PHP Developer with huge interest in sales, marketing and lead generation.
 Also I lead IT teams being all-in-one scrum master, project manager, team mentor and developer.
 
@@ -13,7 +15,7 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 
 ### What I'm passionate about:
 
-[![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)]((https://brodaty.dev))
+[![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)](https://brodaty.dev)
 
 I'm willingly sharing my experiences that can be perceived as *edgy* or offensive. I've met many clients in my life, worked for different organizations, led many teams, obtained a lot of know-hows about different kind of businesses and I'm here to tell you the truth.
 
