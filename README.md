@@ -13,6 +13,14 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 
 ### What I'm passionate about:
 
+[![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)]((https://brodaty.dev))
+
+I'm willingly sharing my experiences that can be perceived as *edgy* or offensive. I've met many clients in my life, worked for different organizations, led many teams, obtained a lot of know-hows about different kind of businesses and I'm here to tell you the truth.
+
+> Software Development is a mess and I'm going to tell you the truth about it.
+
+Follow [brodatydev](https://brodaty.dev) if you're interested!
+
 [![Logo](https://raw.githubusercontent.com/sebastianluczak/php-roguelike/master/docs/images/logo.png)](https://sebastianluczak.github.io/php-roguelike/)
 
 Currently I'm developing fun side project - a [PHP-cli Roguelike game](https://sebastianluczak.github.io/php-roguelike/) heavily based on ADOM, with few concepts taken out from D&D and Fallout mixed with Enter The Gungeon, Hades, Diablo. I know it's a silly idea to make single player roguelike in console, but I'm using it as a playground for testing my skills and new ideas. Feel free to comment and or put some PR's in open-sourced [repository](https://github.com/sebastianluczak/php-roguelike). There's even a [whole board](https://github.com/sebastianluczak/php-roguelike/projects/1) dedicated to this project alone!
