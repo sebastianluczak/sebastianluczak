@@ -14,8 +14,7 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 - ⚡ Fun fact: I can solve Rubic's cube in under 60 seconds
 
 ### What I'm passionate about:
-
-[![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)](https://brodaty.dev)
+![logo-poc-inv](https://user-images.githubusercontent.com/1628839/147500451-19ad8c63-37a7-4507-a213-df4bb315ad0a.png)
 
 I'm willingly sharing my experiences that can be perceived as *edgy* or offensive. I've met many clients in my life, worked for different organizations, led many teams, obtained a lot of know-hows about different kind of businesses and I'm here to tell you the truth.
 
