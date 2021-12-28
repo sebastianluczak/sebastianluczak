@@ -1,8 +1,6 @@
 ## Hello Dear Traveler
 
-[![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)](https://brodaty.dev)
-
-My name is Sebastian and I'm Senior PHP Developer with huge interest in sales, marketing and lead generation.
+My name is [Sebastian](https://brodaty.dev) and I'm [Senior PHP Developer](https://www.linkedin.com/in/sebastianmluczak/) with huge interest in sales, marketing and lead generation.
 Also I lead IT teams being all-in-one scrum master, project manager, team mentor and developer.
 
 - 🔭 I’m currently working on expanding and leading newly created PHP Team in [TheCodest](https://thecodest.co) 💕 🦄
@@ -14,7 +12,7 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 - ⚡ Fun fact: I can solve Rubic's cube in under 60 seconds
 
 ### What I'm passionate about:
-![logo-poc-inv](https://user-images.githubusercontent.com/1628839/147500451-19ad8c63-37a7-4507-a213-df4bb315ad0a.png)
+[![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)](https://brodaty.dev)
 
 I'm willingly sharing my experiences that can be perceived as *edgy* or offensive. I've met many clients in my life, worked for different organizations, led many teams, obtained a lot of know-hows about different kind of businesses and I'm here to tell you the truth.
 
