@@ -20,6 +20,13 @@ I'm willingly sharing my experiences that can be perceived as *edgy* or offensiv
 
 Follow [brodatydev](https://brodaty.dev) if you're interested!
 
+# unittr
+
+![unittr_logo](https://user-images.githubusercontent.com/1628839/149616114-012681cf-4df3-4223-be03-e41ed0b95335.png)
+
+I'm in desperate need of a universal tool to "to bring them all and in the darkness bind them" in terms of Time and Task trackers.
+So... [Shall I make one?](https://github.com/sebastianluczak/unittr)
+
 [![Logo](https://raw.githubusercontent.com/sebastianluczak/php-roguelike/master/docs/images/logo.png)](https://sebastianluczak.github.io/php-roguelike/)
 
 Currently I'm developing fun side project - a [PHP-cli Roguelike game](https://sebastianluczak.github.io/php-roguelike/) heavily based on ADOM, with few concepts taken out from D&D and Fallout mixed with Enter The Gungeon, Hades, Diablo. I know it's a silly idea to make single player roguelike in console, but I'm using it as a playground for testing my skills and new ideas. Feel free to comment and or put some PR's in open-sourced [repository](https://github.com/sebastianluczak/php-roguelike). There's even a [whole board](https://github.com/sebastianluczak/php-roguelike/projects/1) dedicated to this project alone!
