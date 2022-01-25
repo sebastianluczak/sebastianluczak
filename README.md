@@ -11,7 +11,7 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 - 📫 How to reach me: just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/)
 - ⚡ Fun fact: I can solve Rubic's cube in under 60 seconds
 
-### What I'm passionate about:
+## What I'm passionate about:
 [![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)](https://brodaty.dev)
 
 I'm willingly sharing my experiences that can be perceived as *edgy* or offensive. I've met many clients in my life, worked for different organizations, led many teams, obtained a lot of know-hows about different kind of businesses and I'm here to tell you the truth.
@@ -20,10 +20,14 @@ I'm willingly sharing my experiences that can be perceived as *edgy* or offensiv
 
 Follow [brodatydev](https://brodaty.dev) if you're interested!
 
+---
+
 [![unittr_logo](https://user-images.githubusercontent.com/1628839/149616114-012681cf-4df3-4223-be03-e41ed0b95335.png)](https://github.com/sebastianluczak/unittr)
 
 I'm in desperate need of a universal tool to "to bring them all and in the darkness bind them" in terms of Time and Task trackers.
 So... [Shall I make one?](https://github.com/sebastianluczak/unittr)
+
+---
 
 [![Logo](https://raw.githubusercontent.com/sebastianluczak/php-roguelike/master/docs/images/logo.png)](https://sebastianluczak.github.io/php-roguelike/)
 
