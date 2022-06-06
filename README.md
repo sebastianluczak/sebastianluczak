@@ -40,6 +40,7 @@ Contribute to project:
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/sebastianluczak)
 
 --
+
 *Project currently suspedended*
 
 [![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)](https://brodaty.dev)
@@ -51,4 +52,5 @@ I'm willingly sharing my experiences that can be perceived as *edgy* or offensiv
 Follow [brodatydev](https://brodaty.dev) if you're interested!
 
 *Project currently suspedended*
+
 ---
