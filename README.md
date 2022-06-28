@@ -1,15 +1,18 @@
 ## Hello Dear Traveler
 
-My name is [Sebastian](https://brodaty.dev) and I'm [IT Magician🦄](https://www.linkedin.com/in/sebastianmluczak/) with huge interest in sales, marketing and lead generation.
-Also I lead IT teams being all-in-one scrum master, project manager, team mentor and developer.
+My name is [Sebastian](https://brodaty.dev) and I'm [IT Magician🦄](https://www.linkedin.com/in/sebastianmluczak/).
+🚀 I used to be a Fullstack Developer but I've found myself more at the place where business meets technology.🚀
+
+I've been called Web App Developer, PHP Specialist, Full Stack Engineer, Linux Administrator, Lead Manager, Tech Lead and so on, but at the end of the day, I'm just an 🌈 IT Magician 🌈. 
+I've touched and worked with every possible area of IT Product and Project Management, ate my teeth as Architect and Business Advisor, crafted 50++ PHP applications currently running somewhere in the world 🌏. And I have not said my final word.
 
 - 🔭 I’m currently working on expanding and leading newly created PHP Team in [The Codest](https://thecodest.co) 💕 🦄
 - 💼 We're hiring, take a look at [our jobs pool](https://thecodest.co/careers)
-- 🌱 I’m currently learning Node.JS and Python
+- 🌱 I’m currently learning Node.JS and Python, while maintaining Junior PHP Academy
 - 👯 I’m looking to collaborate on external projects with tight deadlines and/or complicated architecture and/or tech debt
-- 💬 Ask me about my free slots in calendar, which are almost none :)
-- 📫 How to reach me: just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/)
-- ⚡ Fun fact: I can solve Rubic's cube in under 60 seconds
+- 💬 Ask me about my free slots in calendar or [just book one](https://calendly.com/the-codest-php/thecodest-php-tech-consultation) and talk about PHP/Architecture/possible cooperation
+- 📫 How to reach me directly? Just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/)
+- ⚡ Fun facts 'bout me: I can solve Rubic's cube in under 60 seconds and I'm addicted to LEGO
 
 ## What I'm passionate about:
 
