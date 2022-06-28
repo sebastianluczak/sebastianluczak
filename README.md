@@ -13,7 +13,7 @@ I've touched and worked with every possible area of IT Product and Project Manag
 - 👯 I’m looking to collaborate on external projects with tight deadlines and/or complicated architecture and/or tech debt
 - 💬 Ask me about my free slots in calendar or [just book one](https://calendly.com/the-codest-php/thecodest-php-tech-consultation) and talk about PHP/Architecture/possible cooperation
 - 📫 How to reach me directly? Just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/)
-- ⚡ Fun facts 'bout me: I can solve Rubic's cube in under 60 seconds and I'm addicted to LEGO
+- ⚡ Fun facts 'bout me: I can solve Rubic's cube in under 60 seconds, cite Battlestar Galactica's Adama speech word-to-word even after large amount of booze and I'm addicted to LEGO Star-Wars UCS series (those big ones, yeah)
 
 ## What I'm passionate about:
 
