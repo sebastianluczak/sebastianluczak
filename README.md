@@ -1,6 +1,7 @@
 ## Hello Dear Traveler
 
 My name is [Sebastian](https://brodaty.dev) and I'm [IT Magician🦄](https://www.linkedin.com/in/sebastianmluczak/).
+
 🚀 I used to be a Fullstack Developer but I've found myself more at the place where business meets technology.🚀
 
 I've been called Web App Developer, PHP Specialist, Full Stack Engineer, Linux Administrator, Lead Manager, Tech Lead and so on, but at the end of the day, I'm just an 🌈 IT Magician 🌈. 
