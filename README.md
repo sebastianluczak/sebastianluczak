@@ -7,11 +7,9 @@ My name is [Sebastian](https://brodaty.dev) and I'm [IT Magician🦄](https://ww
 I've been called Web App Developer, PHP Specialist, Full Stack Engineer, Linux Administrator, Lead Manager, Tech Lead and so on, but at the end of the day, I'm just an 🌈 IT Magician 🌈. 
 I've touched and worked with every possible area of IT Product and Project Management, ate my teeth as Architect and Business Advisor, crafted 50++ PHP applications currently running somewhere in the world 🌏. And I have not said my final word.
 
-- 🔭 I’m currently working on expanding and leading newly created PHP Team in [The Codest](https://thecodest.co) 💕 🦄
-- 💼 We're hiring, take a look at [our jobs pool](https://thecodest.co/careers)
 - 🌱 I’m currently learning Node.JS and Python, while maintaining Junior PHP Academy
 - 👯 I’m looking to collaborate on external projects with tight deadlines and/or complicated architecture and/or tech debt
-- 💬 Ask me about my free slots in calendar or [just book one](https://calendly.com/the-codest-php/thecodest-php-tech-consultation) and talk about PHP/Architecture/possible cooperation
+- 💬 Ask me about my free slots in calendar and talk about PHP/Architecture/possible cooperation
 - 📫 How to reach me directly? Just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/)
 - ⚡ Fun facts 'bout me: I can solve Rubic's cube in under 60 seconds, cite Battlestar Galactica's Adama speech word-to-word even after large amount of booze and I'm addicted to LEGO Star-Wars UCS series (those big ones, yeah)
 
@@ -42,19 +40,5 @@ Current issues in project:
 
 Contribute to project:
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/sebastianluczak)
-
---
-
-*Project currently suspedended*
-
-[![brodaty-badge](https://user-images.githubusercontent.com/1628839/147479861-876a105b-44a9-4d07-a683-9024c937d191.png)](https://brodaty.dev)
-
-I'm willingly sharing my experiences that can be perceived as *edgy* or offensive. I've met many clients in my life, worked for different organizations, led many teams, obtained a lot of know-hows about different kind of businesses and I'm here to uncover some IT kinks, because:
-
-> Software Development is a mess and I'm going to tell you the truth about it.
-
-Follow [brodatydev](https://brodaty.dev) if you're interested!
-
-*Project currently suspedended*
 
 ---
