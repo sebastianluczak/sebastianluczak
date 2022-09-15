@@ -7,6 +7,7 @@ My name is [Sebastian](https://brodaty.dev) and I'm [IT Magician🦄](https://ww
 I've been called Web App Developer, PHP Specialist, Full Stack Engineer, Linux Administrator, Lead Manager, Tech Lead and so on, but at the end of the day, I'm just an 🌈 IT Magician 🌈. 
 I've touched and worked with every possible area of IT Product and Project Management, ate my teeth as Architect and Business Advisor, crafted 50++ PHP applications currently running somewhere in the world 🌏. And I have not said my final word.
 
+- ✒️ I enjoy writing on my [personal blog](https://blog.brodaty.dev) which code is [100% OSS](https://github.com/sebastianluczak/brodaty-blog)
 - 🌱 I’m currently learning Node.JS and Python, while maintaining Junior PHP Academy
 - 👯 I’m looking to collaborate on external projects with tight deadlines and/or complicated architecture and/or tech debt
 - 💬 Ask me about my free slots in calendar and talk about PHP/Architecture/possible cooperation
