@@ -28,8 +28,10 @@ As soon as I derive functionality and hide it under interfaces I'll share it pub
 [![image](https://user-images.githubusercontent.com/1628839/190452236-157182a3-0351-41b1-985d-355d8c5efe94.png)](https://github.com/sebastianluczak/brodaty-blog)
 
 Small side-project focused on delivering maintainable and reusable articles without caring much about frontend.
+
 Based on Symfony and PHP, [brodaty-blog](https://github.com/sebastianluczak/brodaty-blog) focuses on clean code, best practises and ease of use.
-It powers my personal home page: [#brodatydev Blog](https://blog.brodaty.dev)
+
+It also powers my personal home page: [#brodatydev Blog](https://blog.brodaty.dev)
 
 ---
 
