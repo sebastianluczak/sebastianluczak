@@ -1,54 +1,48 @@
-## Hello Dear Traveler
+## 👋 Hello, Dear Traveler!  
 
-My name is [Sebastian](https://brodaty.dev) and I'm [IT Magician🦄](https://www.linkedin.com/in/sebastianmluczak/).
-
-🚀 I used to be a Fullstack Developer but I've found myself more at the place where business meets technology.🚀
-
-I've been called Web App Developer, PHP Specialist, Full Stack Engineer, Linux Administrator, Lead Manager, Tech Lead and so on, but at the end of the day, I'm just an 🌈 IT Magician 🌈. 
-I've touched and worked with every possible area of IT Product and Project Management, ate my teeth as Architect and Business Advisor, crafted 50++ PHP applications currently running somewhere in the world 🌏. And I have not said my final word.
-
-- ✒️ I enjoy writing on my [personal blog](https://blog.brodaty.dev) which code is [100% OSS](https://github.com/sebastianluczak/brodaty-blog)
-- 🌱 I’m currently learning Node.JS and Python, while maintaining Junior PHP Academy
-- 👯 I’m looking to collaborate on external projects with tight deadlines and/or complicated architecture and/or tech debt
-- 💬 [Ask me about my free slots in calendar](https://calendly.com/brodatydev/consultation) and talk about PHP/Architecture/possible cooperation
-- 📫 How to reach me directly? Just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/)
-- ⚡ Fun facts 'bout me: I can solve Rubic's cube in under 60 seconds, cite Battlestar Galactica's Adama speech word-to-word even after large amount of booze and I'm addicted to LEGO Star-Wars UCS series (those big ones, yeah)
-
-## What I'm passionate about:
-
-[![unittr_logo](https://user-images.githubusercontent.com/1628839/149616114-012681cf-4df3-4223-be03-e41ed0b95335.png)](https://github.com/sebastianluczak/unittr)
-
-I'm in desperate need of a universal tool to "to bring them all and in the darkness bind them" in terms of Time and Task trackers.
-So... [Shall I make one?](https://github.com/sebastianluczak/unittr)
-
-PoC has been created and is currently under heavy testing. Clockify and JIRA Worklog integration are working seemlesly and closely to examples listed above. Development is concentrated around one private repository because at this moment it's implementation is strictly tied to accounts and processes within my organization.
-
-As soon as I derive functionality and hide it under interfaces I'll share it publicly as an unittr open source project.
-
----
-[![image](https://user-images.githubusercontent.com/1628839/190452236-157182a3-0351-41b1-985d-355d8c5efe94.png)](https://github.com/sebastianluczak/brodaty-blog)
-
-Small side-project focused on delivering maintainable and reusable articles without caring much about frontend.
-
-Based on Symfony and PHP, [brodaty-blog](https://github.com/sebastianluczak/brodaty-blog) focuses on clean code, best practises and ease of use.
-
-It also powers my personal home page: [#brodatydev Blog](https://blog.brodaty.dev)
+I'm [Sebastian](https://brodaty.dev), an [🌈 IT Magician 🦄](https://www.linkedin.com/in/sebastianmluczak/).  
+Where technology meets business, that’s where you’ll find me.  
 
 ---
 
-[![Logo](https://raw.githubusercontent.com/sebastianluczak/php-roguelike/master/docs/images/logo.png)](https://sebastianluczak.github.io/php-roguelike/)
+### 🚀 About Me  
+I thrive at the intersection of technology and business strategy. Along my journey, I've worn many hats:  
+- **Web App Developer**  
+- **Full Stack Engineer**  
+- **Linux Administrator**  
+- **Tech Lead**  
+- **Architect & Business Advisor**  
 
-Currently I'm developing fun side project - a [PHP-cli Roguelike game](https://sebastianluczak.github.io/php-roguelike/) heavily based on ADOM, with few concepts taken out from D&D and Fallout mixed with Enter The Gungeon, Hades, Diablo. I know it's a silly idea to make single player roguelike in console, but I'm using it as a playground for testing my skills and new ideas. Feel free to comment and or put some PR's in open-sourced [repository](https://github.com/sebastianluczak/php-roguelike). There's even a [whole board](https://github.com/sebastianluczak/php-roguelike/projects/1) dedicated to this project alone!
-
-![Image](https://github.com/sebastianluczak/php-roguelike/raw/master/docs/images/screenshot.png)
-
-PHP-Roguelike latest version released: 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/sebastianluczak/php-roguelike)
-
-Current issues in project:
-![GitHub issues](https://img.shields.io/github/issues/sebastianluczak/php-roguelike)
-
-Contribute to project:
-![GitHub Sponsors](https://img.shields.io/github/sponsors/sebastianluczak)
+I’ve built and shaped digital products used around the world 🌏, but my story is far from over.  
+Right now, I'm focused on crafting magic with **TypeScript** and **Rust** while architecting **cutting-edge applications**.  
 
 ---
+
+### 🌱 Currently Exploring  
+- **TypeScript** for elegant, scalable web applications  
+- **Rust** for powerful, safe, and high-performance systems  
+- **Architecting solutions** that push the boundaries of what's possible  
+
+---
+
+### 🤝 Let's Collaborate  
+I'm open to collaborations on:  
+- **Cutting-edge applications** that challenge the status quo  
+- **Complicated architecture** challenges  
+- Solving tough **technical problems** with creative solutions  
+
+---
+
+### 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/) – Reach out for a chat or potential collaboration  
+
+---
+
+### ⚡ Fun Facts  
+- I can solve a **Rubik's Cube** in under 60 seconds  
+- I can recite **Battlestar Galactica’s Adama speech** word-for-word, even after a few drinks  
+- I’m addicted to **LEGO Star Wars UCS** sets (yes, the really big ones)  
+
+---
+
+Looking forward to connecting and creating something magical! 🚀  
