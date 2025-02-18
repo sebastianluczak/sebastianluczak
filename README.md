@@ -1,6 +1,6 @@
 ## 👋 Hello, Dear Traveler!  
 
-I'm [Sebastian](https://brodaty.dev), an [🌈 IT Magician 🦄](https://www.linkedin.com/in/sebastianmluczak/).  
+I'm Sebastian, an [🌈 IT Magician 🦄](https://www.linkedin.com/in/sebastianmluczak/).  
 Where technology meets business, that’s where you’ll find me.  
 
 ---
