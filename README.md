@@ -46,3 +46,6 @@ I'm open to collaborations on:
 ---
 
 Looking forward to connecting and creating something magical! 🚀  
+
+If you ever want to hire me, there's a hard-requirement of my role to be named `🌈 IT  Magician 🦄`. <- please note emoji's and `nbsp` characters.
+By doing this, I'm making myself reassured that your internal hiring systems are written as they should be and you're the right company to work with.
