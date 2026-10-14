@@ -36,10 +36,10 @@ I can do some other languages as well, but do not throw me into _Laravel_, I'm a
 ### My preferences
 
 - I think in **PlantUML** and cannot live without it, but I'm fine with Mermaid,
-- AsciiDoc + Antora is my default SSG for docs, I can do Markdown but I default to AsciiDoc,
-- VSCode over other IDE's and I can do just fine in pure `vi`. Give me `SpaceVim` + LSP and I'm fine without IDE in any language,
-- Linux `>` Windows `>` MacOS if we're talking OS preferences, but I can adapt and don't really care as long as it's stable,
-- I do understand how AI works and I do use it in my work, but I still prefer to craft solutions by hand, like in old days,
+- **AsciiDoc** + Antora is my default SSG for documentation, I can do Markdown but I default to AsciiDoc,
+- **VSCode** over other IDE's and I can do just fine in pure `vi`. Give me `SpaceVim` + LSP and I'm fine without IDE in any language,
+- **Linux** `>` Windows `>` MacOS if we're talking OS preferences, but I can adapt and don't really care as long as it's stable,
+- I do understand how **AI** works and I do use it in my work, but I still prefer to craft solutions by hand, like in _old days_,
 - I'd very much prefer fighting 100 duck-sized horses over 1 horse-sized duck,
 - My spirit animal is a Tibetan Fox.
   
