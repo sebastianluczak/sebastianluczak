@@ -1,4 +1,4 @@
-## 👋 Hello, Dear Traveler!  
+## Greetings, fellow earthling
 
 I'm Sebastian, [TypeScript/JS/Java/PHP developer](https://www.linkedin.com/in/sebastianmluczak/).  
 Where technology meets business, that’s where you’ll find me.  
