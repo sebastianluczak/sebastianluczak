@@ -5,7 +5,7 @@ Where technology meets business, that’s where you’ll find me.
 
 ---
 
-### 🚀 About Me  
+### About Me  
 
 Called by many names in my 20y++ journey:
 
@@ -45,16 +45,13 @@ I can do some other languages as well, but do not throw me into _Laravel_, I'm a
   
 ---
 
-### 🤝 Let's Collaborate  
+### Let's Collaborate  
 
 I'm open to collaborations on:  
 - **applications** that challenge the status quo  
 - **architecture** challenges  
 - Solving tough **technical problems** with creative solutions  
 
----
-
-### 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/) – Reach out for a chat or potential collaboration  
 
 ---
