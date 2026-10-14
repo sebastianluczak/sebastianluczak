@@ -55,3 +55,5 @@ I'm open to collaborations on:
 - [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/) – Reach out for a chat or potential collaboration  
 
 ---
+
+If you scrolled up to this point, you may check out my latest project: https://sebastianluczak.github.io/cv-platform/cv-analyzer/index.html
