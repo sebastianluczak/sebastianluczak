@@ -27,9 +27,11 @@ I still do support a few apps written in older tech: **PHP**, **.NET** and **C#*
 - **Rust** for powerful, safe, and high-performance systems
 - **Golang** for small micro-services and general purpose tools
 - **Java** if enterprise solution is required or complex domain emerges
-- **Architecting solutions** that push the boundaries of what's possible  
+- **Architecting solutions** that push the boundaries of what's possible
+- **I've worked on every OSI layer** so I know IT from the bottom-up
+- **I've personally implemented every single step of SDLC**, you name it - I've done it
 
-I can do some other languages as well, but do not throw me into _Laravel_, I'm a **Symfony** fanboy if we're talking PHP.
+I can do some obscure languages as well, but do not throw me into strange frameworks like _Laravel_, I'm a **Symfony** fanboy if we're talking PHP.
 
 ---
 
